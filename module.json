@@ -1,0 +1,12 @@
+{
+    "id": "auth-orca",
+    "name": "ORCA OAuth2 Sign-In",
+    "description": "Integrating OAuth2 Sign-In to ORCA-Keycloak",
+    "keywords": [
+    ],
+    "version": "0.2.0",
+    "homepage": "https://www.orca.nrw",
+    "humhub": {
+        "minVersion": "1.6"
+    }
+}
